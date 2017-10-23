@@ -1,4 +1,12 @@
 ========================
+Installation
+========================
+
+run git clone https://github.com/bardie/bro-scripts.git on the /opt/bro/share/bro/base/ folder then add @load bro-scripts
+to /opt/bro/share/bro/site/local.bro
+
+
+========================
 Contributed Bro Scripts
 ========================
 
