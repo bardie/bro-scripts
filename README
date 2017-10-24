@@ -2,7 +2,9 @@
 Installation
 ========================
 
-run git clone https://github.com/bardie/bro-scripts.git on the /opt/bro/share/bro/base/ folder then add @load bro-scripts
+You can add custom scripts in /opt/bro/share/bro/policy/ and then reference the scripts in /opt/bro/share/bro/site/local.bro.
+
+run git clone https://github.com/bardie/bro-scripts.git on the /opt/bro/share/bro/policy/ folder then add @load bro-scripts
 to /opt/bro/share/bro/site/local.bro
 
 
